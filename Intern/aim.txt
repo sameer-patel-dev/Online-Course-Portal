@@ -1,0 +1,14 @@
+SignUp students
+Login
+Admins must be able to create course
+Admin must be able t create teachers
+Admins must be able to assign teachers to courses
+Admins must be able to view all the courses
+Admins must be able to view all the teachers
+Admins must be able to view all the students
+Teachers must be able to view thier courses with thier students
+Students can view all courses
+Students can view thier courses they joined
+Students can join/leave courses.
+
+
