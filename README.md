@@ -1,6 +1,6 @@
 # Online Course Portal
 
-This repository contains the code for the Online Course Portal which was developed under an internship under Prof. Manjitsing Valvi and Prof. Sunayana Jadhav. The entire application has 3 entities, Admin, Teachers and Students. Each of the entitiy has their own functionalities which is discussed below.
+This repository contains the code for the Online Course Portal which was developed under an internship under Prof. Manjitsing Valvi and Prof. Sunayana Jadhav . The entire application has 3 entities, Admin, Teachers and Students. Each of the entitiy has their own functionalities which is discussed below.
 
 ## Features 
 
